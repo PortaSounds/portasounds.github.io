@@ -1,4 +1,11 @@
+<script src="/audiojs/audio.min.js"></script>
+<script>
+  audiojs.events.ready(function() {
+    var as = audiojs.createAll();
+  });
+</script>
+
 # Previous mix and masters
 
-<audio ref='themeSong' src="https://raw.githubusercontent.com/PortaSounds/portasounds.github.io/master/001.mp3" autoPlay loop></audio>
+<audio src="/001.mp3" preload="auto" />
 [Lasse](/001.mp3)
