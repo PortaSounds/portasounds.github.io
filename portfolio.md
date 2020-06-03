@@ -7,7 +7,19 @@
 
 # Previous mix and masters (previews)
 
-# Trap / Hip-hop
+### Trap / Hip-hop
 "Isaac Waave - Routine"
 <audio src="/001.mp3" preload="auto" />
+
+### Electronic 
+
+
+### Experimental
+
+
+### Indie
+
+
+### Pop 
+
 
