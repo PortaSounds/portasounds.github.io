@@ -1,4 +1,6 @@
+---
 layout: default
+---
   
 <script src="/audiojs/audio.min.js"></script>
 <script>
