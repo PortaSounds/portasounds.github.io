@@ -1,3 +1,6 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  
 <script src="/audiojs/audio.min.js"></script>
 <script>
   audiojs.events.ready(function() {
@@ -23,3 +26,4 @@
 ### Pop 
 
 
+</html>
