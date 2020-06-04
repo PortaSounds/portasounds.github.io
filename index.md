@@ -1,5 +1,5 @@
 Check out my [portfolio here](portfolio.md)
-<a href="/portfolio.md" class="btn">Portfolio</a>
+
 
 # Background
 
