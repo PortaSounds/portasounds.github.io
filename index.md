@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Background
 
 Mixing and Mastering is an art that is learned through many years. Starting as a live sound audio engineer ten years ago, I wanted to move into a studio environment as the environment is different. I needed to expand my knowledge in the audio engineering field to fully understand each and every aspect of it.
