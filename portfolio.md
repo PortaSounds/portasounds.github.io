@@ -13,6 +13,7 @@ layout: default
 
 ### Trap / Hip-hop
 "Isaac Waave - Routine" **(Mix and Mastering)**
+
 Details | Applied | Preview
 --- | --- | ---
 Beat was premade and vocals recorded on an iPhone | Mix and Mastering | [here](/001.mp3)
