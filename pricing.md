@@ -22,5 +22,5 @@ $80 | Over 30
 # Mastering
 
 Price ($USD) 
---- |
-$25-$80 (depending) 
+---
+$25-$80
