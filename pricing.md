@@ -10,7 +10,8 @@ Pricing is on a client basis to suit everyones budget. Please [contact me](/cont
 
 However to give you a **rough** estimation here are the prices below.
 
-**Mixing Services**
+Mixing Services
+
 ---
 Price (**$USD**) | Number of stems 
 --- 
@@ -18,7 +19,8 @@ $25 | Under 10
 $60 | Under 20
 $80 | Over 30
 
-**Mastering**
+Mastering
+
 ---
 Price (**$USD**) 
 ---
