@@ -11,10 +11,13 @@ layout: default
 
 # My previous work with clients
 
-### Trap / Hip-hop
-"Isaac Waave - Routine" **(Mix and Mastering)**
+## Trap / Hip-hop
 
-Details | Applied | Preview
+### Isaac Waave - Routine
+
+**Recognised by Richie Souf**
+
+Details | Applied | Preview 
 --- | --- | ---
 Beat was premade by a different producer and vocals recorded on an iPhone. | Mix and Mastering | [Here](/001.mp3)
 
