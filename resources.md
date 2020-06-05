@@ -14,7 +14,13 @@ Knowing your mixes LUFS is important in some way to know how websites will treat
 
 # How do I send my mix to a mastering engineer?
 
-Make sure there is atleast -6db of headroom in the master bus
+Make sure there is atleast -6db of headroom in your mix and that your song is not clipping. I know some might send a 32bit export which solves the problem of headroom since it can be scaled down if your mix clips. But it helps make our workflow much easier and faster if you send with a -6db headroom.
+
+## What settings to export my mix?
+
+* Wav File.
+* 24bit stereo.
+* 44.1kHz (or the project sample rate you are working on)
 
 ## Why the -6db headroom? 
 
