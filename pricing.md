@@ -6,7 +6,7 @@ layout: default
 
 Pricing is on a client basis to suit everyones budget. Please [contact me](/contact.md) further to discuss. 
 
-**I currently only take Cryptocurrency as a payment option. Most of my clients use this.**
+**I currently only take [Cryptocurrency](/payment.md) as a payment option. Most of my clients use this.**
 
 However to give you a **rough** estimation here are the prices below.
 
