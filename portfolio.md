@@ -16,20 +16,24 @@ layout: default
 
 Details | Applied | Preview
 --- | --- | ---
-Beat was premade and vocals recorded on an iPhone | Mix and Mastering | [here](/001.mp3)
+Beat was premade by a different producer and vocals recorded on an iPhone. | Mix and Mastering | [Here](/001.mp3)
 
 ### Electronic 
 
-To be updated soon
+Details | Applied | Preview
+--- | --- | ---
 
 ### Experimental
 
-To be updated soon
+Details | Applied | Preview
+--- | --- | ---
 
 ### Indie
 
-To be updated soon
+Details | Applied | Preview
+--- | --- | ---
 
 ### Pop 
 
-To be updated soon
+Details | Applied | Preview
+--- | --- | ---
