@@ -13,7 +13,7 @@ layout: default
 
 ### Trap / Hip-hop
 "Isaac Waave - Routine"
-<audio src="/001.mp3" preload="auto" />
+<audio src="/001.mp3" preload="auto" width="50px"/>
 
 ### Electronic 
 
