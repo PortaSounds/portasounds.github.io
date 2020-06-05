@@ -13,14 +13,14 @@ However to give you a **rough** estimation here are the prices below.
 # Mixing Services
 
 
-Price ($USD) | Number of stems |
---- 
-$25 | Under 10 |
-$60 | Under 20 |
-$80 | Over 30 |
+Price ($USD) | Number of stems 
+--- | --- 
+$25 | Under 10 
+$60 | Under 20 
+$80 | Over 30 
 
 # Mastering
 
-Price ($USD) |
----
-$25-$80 (depending) |
+Price ($USD) 
+--- |
+$25-$80 (depending) 
