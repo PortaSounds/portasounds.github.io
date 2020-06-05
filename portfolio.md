@@ -9,19 +9,26 @@ layout: default
   });
 </script>
 
-# My previous work and clients
+# My previous work with clients
 
 ### Trap / Hip-hop
-"Isaac Waave - Routine"
-<audio src="/001.mp3" preload="auto" width="50px"/>
+"Isaac Waave - Routine" **(Mix and Mastering)**
+Details | Applied | Preview
+--- | --- | ---
+Beat was premade and vocals recorded on an iPhone | Mix and Mastering | [here](/001.mp3)
 
 ### Electronic 
 
+To be updated soon
 
 ### Experimental
 
+To be updated soon
 
 ### Indie
 
+To be updated soon
 
 ### Pop 
+
+To be updated soon
