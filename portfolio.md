@@ -17,9 +17,9 @@ layout: default
 
 **Recognised by Richie Souf**
 
-Details | Applied | Preview 
---- | --- | ---
-Beat was premade by a different producer and vocals recorded on an iPhone. | Mix and Mastering | [Here](/001.mp3)
+Applied | Preview 
+--- | ---
+Mix and Mastering | [Here](/001.mp3)
 
 ### Electronic 
 
